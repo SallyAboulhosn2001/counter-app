@@ -62,10 +62,7 @@ Click "Reset" to reset the counter to 0
 
 When the counter reaches the minimum (0) or maximum (10), a message will appear below the counter
 
-Screenshots
 
-
-Example view of the counter app with interactive buttons and messages
 
 Why This Project?
 
